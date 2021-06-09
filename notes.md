@@ -20,3 +20,5 @@
 [last](https://www.youtube.com/watch?v=shVKhOmT0HE&list=RDCMUCP7jMXSY2xbc3KCAE0MHQ-A&start_radio=1)
 
 [last-slides](https://storage.googleapis.com/deepmind-media/UCLxDeepMind_2020/L3%20-%20UUCLxDeepMind%20DL2020.pdf)
+
+[recommended link to try](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/curvature/v/curvature-intuition)
